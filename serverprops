@@ -1,0 +1,4 @@
+db_url=jdbc:postgresql://localhost:5432/boaqacustomerdb?useSSL=true
+db_username=postgres
+db_password=dharshith
+db_driver-class-name=org.postgresql.Driver
